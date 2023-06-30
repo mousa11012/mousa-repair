@@ -1,0 +1,34 @@
+.main-slider {
+    /* background: #333; */
+    height: 500px;
+}
+.slick-slider {
+    position: relative;
+    width: 600px;
+    margin: auto;
+    /* background: darkgray; */
+    height: 500px;
+}
+.item {
+    /* position: relative; */
+    text-align: center;
+    line-height: 500px;
+}
+.item img {
+    position: absolute;
+    height: 100%;
+    margin-left: 130px;
+}
+
+.mousa {
+    position: relative;
+    width: 100%;
+    height: 600px;
+    margin-top: 200px;
+    /* background: #000; */
+    overflow: hidden;
+}
+.mousa img {
+    width: 100%;
+    /* height: 100%; */
+}
